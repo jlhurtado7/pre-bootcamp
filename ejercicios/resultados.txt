@@ -1,0 +1,47 @@
+Producto más vendido: Producto A con 18 unidades vendidas.
+jlhurtado@MacBook-Pro-de-Joel ciencia de datos-pre % /usr/local/bin/python3 "/Users/jlhurtado/Documents/ciencia de datos-pre/ejercicios/ejercicio-lista-tupla-dic
+cionario.py"
+Ingresos totales generados: 260.0
+Producto más vendido: Producto A con 18 unidades vendidas.
+Precio promedio de venta de Producto A: 5.00
+Precio promedio de venta de Producto B: 10.00
+Precio promedio de venta de Producto C: 7.50
+Ingresos totales por día: {'2025-01-01': 50.0, '2025-02-01': 50.0, '2025-02-02': 40.0, '2025-03-02': 90.0, '2025-04-03': 30.0}
+jlhurtado@MacBook-Pro-de-Joel ciencia de datos-pre % /usr/local/bin/python3 "/Users/jlhurtado/Documents/ciencia de datos-pre/ejercicios/ejercicio-lista-tupla-dic
+cionario.py"
+Ingresos totales generados: 260.0
+Producto más vendido: Producto A con 18 unidades vendidas.
+Precio promedio de venta de Producto A: 5.00
+Precio promedio de venta de Producto B: 10.00
+Precio promedio de venta de Producto C: 7.50
+Ingresos totales por día: {'2025-01-01': 50.0, '2025-02-01': 50.0, '2025-02-02': 40.0, '2025-03-02': 90.0, '2025-04-03': 30.0}
+Este es el resumen de ventas por producto:
+Producto A: {'cantidad_total': 18, 'ingresos_totales': 90.0, 'precio_promedio': 5.0}
+Producto B: {'cantidad_total': 8, 'ingresos_totales': 80.0, 'precio_promedio': 10.0}
+Producto C: {'cantidad_total': 12, 'ingresos_totales': 90.0, 'precio_promedio': 7.5}
+jlhurtado@MacBook-Pro-de-Joel ciencia de datos-pre % clear
+jlhurtado@MacBook-Pro-de-Joel ciencia de datos-pre % /usr/local/bin/python3 "/Users/jlhurtado/Documents/ciencia de datos-pre/ejercicios/ejercicio-lista-tupla-dic
+cionario.py"
+Ingresos totales generados: 260.0
+Producto más vendido: Producto A con 18 unidades vendidas.
+Este es el ptrecio promedio de venta de Producto A: 5.00
+Este es el ptrecio promedio de venta de Producto B: 10.00
+Este es el ptrecio promedio de venta de Producto C: 7.50
+Estos son los ingresos totales por día: {'2025-01-01': 50.0, '2025-02-01': 50.0, '2025-02-02': 40.0, '2025-03-02': 90.0, '2025-04-03': 30.0}
+Este es el resumen de ventas por producto:
+Producto A: {'cantidad_total': 18, 'ingresos_totales': 90.0, 'precio_promedio': 5.0}
+Producto B: {'cantidad_total': 8, 'ingresos_totales': 80.0, 'precio_promedio': 10.0}
+Producto C: {'cantidad_total': 12, 'ingresos_totales': 90.0, 'precio_promedio': 7.5}
+jlhurtado@MacBook-Pro-de-Joel ciencia de datos-pre % /usr/local/bin/python3 "/Users/jlhurtado/Documents/ciencia de datos-pre/ejercicios/ejercicio-lista-tupla-dic
+cionario.py"
+Ingresos totales generados: 260.0
+Producto más vendido: Producto A con 18 unidades vendidas.
+Este es el ptrecio promedio de venta de Producto A: 5.00
+Este es el ptrecio promedio de venta de Producto B: 10.00
+Este es el ptrecio promedio de venta de Producto C: 7.50
+Estos son los ingresos totales por día: {'2025-01-01': 50.0, '2025-02-01': 50.0, '2025-02-02': 40.0, '2025-03-02': 90.0, '2025-04-03': 30.0}
+Este es el resumen de ventas por producto:
+Producto A: {'cantidad_total': 18, 'ingresos_totales': 90.0, 'precio_promedio': 5.0}
+Producto B: {'cantidad_total': 8, 'ingresos_totales': 80.0, 'precio_promedio': 10.0}
+Producto C: {'cantidad_total': 12, 'ingresos_totales': 90.0, 'precio_promedio': 7.5}
+jlhurtado@MacBook-Pro-de-Joel ciencia de datos-pre % 
